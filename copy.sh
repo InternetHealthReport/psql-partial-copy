@@ -1,7 +1,7 @@
 #!/bin/bash
 # Copying a small slice of IHR database
 
-STARTTIME='2022-03-10 00:00'
+STARTTIME='2022-03-10'
 ENDTIME='2022-03-10 08:00'
 
 IHR_HOST='eric.iijlab.net'
